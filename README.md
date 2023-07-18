@@ -1,5 +1,6 @@
-<img src="https://github-readme-stats-roan-two-92.vercel.app/api/top-langs/?username=konoka-iori&count_private=true&layout=compact&theme=cobalt&size_weight=100" alt="Top Languages Card">
-<img src="https://github-profile-trophy-tan.vercel.app/?username=konoka-iori&row=2&column=4&theme=discord&no-bg=true&no-frame=true" alt="Github Profile Trophy">
+![Top Languages Card](https://github-readme-stats-roan-two-92.vercel.app/api/top-langs/?username=konoka-iori&count_private=true&layout=compact&theme=cobalt)
+
+![Github Profile Trophy](https://github-profile-trophy-tan.vercel.app/?username=konoka-iori&column=8&theme=discord&no-bg=true&no-frame=true)
 
 # Skills & Tools
 
