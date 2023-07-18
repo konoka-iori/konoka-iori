@@ -60,6 +60,12 @@
 
 Team Parityは[Parity-Blog.info](https://parity-blog.info)の運営やソフトウェア開発などを行う団体です。
 
+<div style="text-align: center;">
+  <a href="https://team.parity-blog.info/" target="_blank">
+    <button style="background-color: #15ccbf; color: white; padding: 15px 32px; font-size: 16px;">Team Parity公式サイト</button>
+  </a>
+</div>
+
 Team Parityでは次のことを担当しています。
 
 - Team Parityの運営・管理
