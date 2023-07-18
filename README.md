@@ -56,8 +56,22 @@
 </td>
 </table>
 
+# Team Parity
+
+Team Parityは[Parity-Blog.info](https://parity-blog.info)の運営やソフトウェア開発などを行う団体です。
+
+Team Parityでは次のことを担当しています。
+
+- Team Parityの運営・管理
+- Parity-Blog.infoの運営・管理、記事執筆・編集
+- GitHub Organizationの運営・管理
+- 各部門の活動内容の企画
 
 ## Parity-Blog.info
+
+WordPressでWebサイトを運営しています。
+
+### Feed
 <!-- BLOG-POST-LIST:START -->
 - [Discord Nitroを使ってみたのでレビュー！](https://parity-blog.info/discord-nitro-review-2023/)
 - [HTMLとCSSの作り方を優しく解説【２】](https://parity-blog.info/how-to-make-web-site-2/)
