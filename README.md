@@ -1,3 +1,5 @@
+# GitHub Activity
+
 ![Top Languages Card](https://github-readme-stats-roan-two-92.vercel.app/api/top-langs/?username=konoka-iori&count_private=true&layout=compact&theme=cobalt)
 
 ![Github Profile Trophy](https://github-profile-trophy-tan.vercel.app/?username=konoka-iori&column=8&theme=discord&no-bg=true&no-frame=true)
@@ -24,6 +26,15 @@
 # [Team Parity](https://team.parity-blog.info)
 
 Team Parityは[Parity-Blog.info](https://parity-blog.info)の運営やソフトウェア開発などを行う団体です。
+
+<div style="text-align:center;">
+  <a href="https://github.com/team-parity">
+  <img alt="Team Parity's GitHub Organization" src="https://img.shields.io/badge/Team_Parity-GitHub_Organization?logo=github&label=GitHub%20Organization&labelColor=%23181717&color=%2315ccbf"></a>
+  <a href="https://www.guilded.gg/Team-Parity">
+  <img alt="Team Parity's Guilded" src="https://img.shields.io/badge/Team_Parity-Guilded?logo=guilded&logoColor=%23111820&label=Guilded&labelColor=%23F5C400&color=%2315ccbf"></a>
+  <a href="https://team.parity-blog.info">
+  <img alt="Team Parity's Website" src="https://img.shields.io/badge/Team_Parity-Website?logo=wordpress&label=Website&labelColor=%2321759B&color=%2315ccbf"></a>
+</div>
 
 Team Parityでは次のことを担当しています。
 
