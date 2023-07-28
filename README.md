@@ -1,12 +1,10 @@
-# Konoka-Iori's Profile
-
-## GitHub Activity
+# GitHub Activity
 
 ![Top Languages Card](https://github-readme-stats-roan-two-92.vercel.app/api/top-langs/?username=konoka-iori&count_private=true&layout=compact&theme=cobalt)
 
 ![Github Profile Trophy](https://github-profile-trophy-tan.vercel.app/?username=konoka-iori&column=8&theme=discord&no-bg=true&no-frame=true)
 
-## Skills & Tools
+# Skills & Tools
 
 <table>
   <tr>
@@ -33,7 +31,7 @@
 
 などいろいろ使っています。ほかにもアイコンがなかったので割愛したもの多数。
 
-### 興味のあること
+## 興味のあること
 
 - **生成AI - 文章**: 最近はGPT系のAIを使って作業を効率化したり、特定キャラクターを再現したりして遊んでいます。
   - **ChatGPT**: GPT-3.5を使用。破産するのでChatGPT Plusに課金できず。石油を掘り当てたら真っ先に課金します。
@@ -66,11 +64,11 @@ Team Parityでは次のことを担当しています。
 - GitHub Organizationの運営・管理
 - 各部門の活動内容の企画
 
-### [Parity-Blog.info](https://parity-blog.info)
+## [Parity-Blog.info](https://parity-blog.info)
 
 WordPressでWebサイトを運営しています。
 
-#### Feed
+### Feed
 <!-- BLOG-POST-LIST:START -->
 - [Discord Nitroを使ってみたのでレビュー！](https://parity-blog.info/discord-nitro-review-2023/)
 - [HTMLとCSSの作り方を優しく解説【２】](https://parity-blog.info/how-to-make-web-site-2/)
