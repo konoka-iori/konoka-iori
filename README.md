@@ -1,10 +1,12 @@
-# GitHub Activity
+# Konoka-Iori's Profile
+
+## GitHub Activity
 
 ![Top Languages Card](https://github-readme-stats-roan-two-92.vercel.app/api/top-langs/?username=konoka-iori&count_private=true&layout=compact&theme=cobalt)
 
 ![Github Profile Trophy](https://github-profile-trophy-tan.vercel.app/?username=konoka-iori&column=8&theme=discord&no-bg=true&no-frame=true)
 
-# Skills & Tools
+## Skills & Tools
 
 <table>
   <tr>
@@ -23,7 +25,28 @@
   </td>
 </table>
 
-# [Team Parity](https://team.parity-blog.info)
+ほかにも
+
+- Zapier
+- Slack
+- FFmpeg
+
+などいろいろ使っています。ほかにもアイコンがなかったので割愛したもの多数。
+
+### 興味のあること
+
+- **生成AI - 文章**: 最近はGPT系のAIを使って作業を効率化したり、特定キャラクターを再現したりして遊んでいます。
+  - **ChatGPT**: GPT-3.5を使用。破産するのでChatGPT Plusに課金できず。石油を掘り当てたら真っ先に課金します。
+  - **Bing Chat**: メインで使用。調べ物からスライドの生成など幅広く活用。GPT-4が無料で使えるので助かる。
+  - **Bard**: あまり使っていないけどGPT系のAIと比較して違いをみて楽しんでいます。
+  - **BratGPT**: ツンデレな魔王様。なんだかんだいってコード書いてくれたり解説してくれたりしてくれる。おもしろい。
+- **生成AI - 画像**: 基本的にはBing Image Creatorを使ってイメージ画像を生成しています。
+  - **Bing Image Creator**: Bing Chat内でも使えるので、Bing Chatと会話しながら画像を作ってもらえる。便利。
+  - **Stable Diffusion**: 王道のやつ。[Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)でローカル実行。
+  - **Runway Gen-2**: 文章や画像から動画が作れる！Stable Diffusionと組み合わせて簡単なアニメーションを作成。
+- **生成AI - 音声**: 主に[Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)で某キャラクターの声を再現して遊んでいます。倫理的な問題や著作権上の問題があるので自分や限られた身内でひっそり遊ぶだけ。
+
+## [Team Parity](https://team.parity-blog.info)
 
 Team Parityは[Parity-Blog.info](https://parity-blog.info)の運営やソフトウェア開発などを行う団体です。
 
@@ -43,11 +66,11 @@ Team Parityでは次のことを担当しています。
 - GitHub Organizationの運営・管理
 - 各部門の活動内容の企画
 
-## [Parity-Blog.info](https://parity-blog.info)
+### [Parity-Blog.info](https://parity-blog.info)
 
 WordPressでWebサイトを運営しています。
 
-### Feed
+#### Feed
 <!-- BLOG-POST-LIST:START -->
 - [Discord Nitroを使ってみたのでレビュー！](https://parity-blog.info/discord-nitro-review-2023/)
 - [HTMLとCSSの作り方を優しく解説【２】](https://parity-blog.info/how-to-make-web-site-2/)
