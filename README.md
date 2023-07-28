@@ -48,7 +48,7 @@
   - [Minecraft](https://www.minecraft.net): 昔からカジュアルに遊んでいますが、最近はゲーム本編よりもOracle Cloudでマルチプレイサーバーを運用することのほうにハマっています。
   - [Satisfactory](https://store.steampowered.com/app/526870/Satisfactory/): 工場長になって生産をがんばるゲーム。マルチプレイサーバーを立ててみようとしたらArmインスタンスはダメらしく、断念。対応待ち。
 
-## [Team Parity](https://team.parity-blog.info)
+# 参加チーム: [Team Parity](https://team.parity-blog.info)
 
 Team Parityは[Parity-Blog.info](https://parity-blog.info)の運営やソフトウェア開発などを行う団体です。
 
