@@ -47,6 +47,7 @@
 - **ゲーム**: 協力マルチプレイ、PvE、MMORPGなど。誰かと一緒にゆるく遊ぶのが好きです。
   - [Minecraft](https://www.minecraft.net): 昔からカジュアルに遊んでいますが、最近はゲーム本編よりもOracle Cloudでマルチプレイサーバーを運用することのほうにハマっています。
   - [Satisfactory](https://store.steampowered.com/app/526870/Satisfactory/): 工場長になって生産をがんばるゲーム。マルチプレイサーバーを立ててみようとしたらArmインスタンスはダメらしく、断念。対応待ち。
+  - [FINAL FANTASY XIV](https://jp.finalfantasyxiv.com): 世界的に有名なMMORPG。なんかいろいろできるゲーム。ハマりすぎてやばい。
 
 # 参加チーム: [Team Parity](https://team.parity-blog.info)
 
