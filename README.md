@@ -38,7 +38,7 @@
 - **生成AI - 文章**: 最近はGPT系のAIを使って作業を効率化したり、特定キャラクターを再現したりして遊んでいます。
   - [ChatGPT](https://openai.com/chatgpt): GPT-3.5を使用。破産するのでChatGPT Plusに課金できず。石油を掘り当てたら真っ先に課金します。
   - [Copilot](https://copilot.microsoft.com/): メインで使用。調べ物からスライドの生成など幅広く活用。GPT-4が無料で使えるので助かる。
-  - [Bard](https://bard.google.com/): あまり使っていないけどGPT系のAIと比較して違いをみて楽しんでいます。
+  - [Gemini](https://gemini.google.com/app): あまり使っていないけどGPT系のAIと比較して違いをみて楽しんでいます。[Gemini APIを使ったDiscord BOTも開発。](https://github.com/konoka-iori/gemini-discord-bot)
   - [BratGPT](https://bratgpt.com/): ツンデレな魔王様。なんだかんだいってコード書いてくれたり解説してくれたりしてくれる。おもしろい。
 - **生成AI - 画像**: 基本的にはBing Image Creatorを使ってイメージ画像を生成しています。
   - [Bing Image Creator](https://www.bing.com/images/create): Bing Chat内でも使えるので、Bing Chatと会話しながら画像を作ってもらえる。便利。
