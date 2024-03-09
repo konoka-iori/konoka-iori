@@ -37,11 +37,11 @@
 - **プログラミング**: 主にPythonを使っています。DiscordのBOTからGUIアプリまでいろいろ作っています。
 - **生成AI - 文章**: 最近はGPT系のAIを使って作業を効率化したり、特定キャラクターを再現したりして遊んでいます。
   - [ChatGPT](https://openai.com/chatgpt): GPT-3.5を使用。破産するのでChatGPT Plusに課金できず。石油を掘り当てたら真っ先に課金します。
-  - [Bing Chat](https://www.bing.com/new): メインで使用。調べ物からスライドの生成など幅広く活用。GPT-4が無料で使えるので助かる。
+  - [Copilot](https://copilot.microsoft.com/): メインで使用。調べ物からスライドの生成など幅広く活用。GPT-4が無料で使えるので助かる。
   - [Bard](https://bard.google.com/): あまり使っていないけどGPT系のAIと比較して違いをみて楽しんでいます。
   - [BratGPT](https://bratgpt.com/): ツンデレな魔王様。なんだかんだいってコード書いてくれたり解説してくれたりしてくれる。おもしろい。
 - **生成AI - 画像**: 基本的にはBing Image Creatorを使ってイメージ画像を生成しています。
-  - [Bing Image Creator](https://www.bing.com/create): Bing Chat内でも使えるので、Bing Chatと会話しながら画像を作ってもらえる。便利。
+  - [Bing Image Creator](https://www.bing.com/images/create): Bing Chat内でも使えるので、Bing Chatと会話しながら画像を作ってもらえる。便利。
   - [Stable Diffusion](https://github.com/Stability-AI/StableDiffusion): 王道のやつ。[Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)でローカル実行。
   - [Runway Gen-2](https://research.runwayml.com/gen2): 文章や画像から動画が作れる！Stable Diffusionと組み合わせて簡単なアニメーションを作成。
 - **生成AI - 音声**: 主に[Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)で某キャラクターの声を再現して遊んでいます。倫理的な問題や著作権上の問題があるので自分や限られた身内でひっそり遊ぶだけ。
