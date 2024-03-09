@@ -13,19 +13,20 @@
     <th>興味あり</th>
   </tr>
   <td>
-    <img src="https://skillicons.dev/icons?i=py,md,bash,powershell,html,css,git,github,linux,raspberrypi,vim,vscode,wordpress,discord,bots&perline=5"/>
+    <img src="https://skillicons.dev/icons?i=py,md,bash,powershell,html,css,git,github,windows,linux,raspberrypi,vim,vscode,wordpress,discord,bots&perline=5"/>
   </td>
   <td>
-    <img src="https://skillicons.dev/icons?i=atom,c,html,css,arduino,pr,ps,ai,androidstudio,unity,py,java,js,linux,mysql,aws,idea,eclipse,vim&perline=5"/>
+    <img src="https://skillicons.dev/icons?i=atom,c,html,css,arduino,pr,ps,ai,androidstudio,unity,py,java,js,linux,mysql,aws,idea,eclipse,vim,kotlin&perline=5"/>
   </td>
   <td>
-    <img src="https://skillicons.dev/icons?i=docker,electron,flutter,kotlin,nodejs,pytorch,rust,swift,tensorflow&perline=5"/>
+    <img src="https://skillicons.dev/icons?i=docker,electron,flutter,nodejs,pytorch,rust,swift,tensorflow,cloudflare,figma,firebase,go&perline=5"/>
   </td>
 </table>
 
 ほかにも
 
-- Zapier: RSSフィードをDiscordに流すとかに使用
+- Zapier: RSSフィードをDiscordに流すとかに使用 → GASに移行
+- GAS: RSSフィードをDiscordに流すとかに使用
 - Slack: 家族間の連絡とか諸々に使用
 - FFmpeg: 簡単な動画編集や変換などに使用
 
