@@ -13,13 +13,13 @@
     <th>興味あり</th>
   </tr>
   <td>
-    <img src="https://skillicons.dev/icons?i=py,md,bash,powershell,html,css,git,github,windows,linux,raspberrypi,vim,vscode,wordpress,discord,bots&perline=5" alt="個人でも活用しているスキルやツールのアイコン: Python,Markdown,Bash,PowerShell,HTML,CSS,Git,GitHub,Windows,Linux,Raspberry Pi,Vim,VSCode,WordPress,Discord,Bots"/>
+    <img src="https://skillicons.dev/icons?i=py,md,bash,powershell,html,css,git,github,windows,linux,raspberrypi,vim,vscode,wordpress,discord,bots,docker&perline=5" alt="個人でも活用しているスキルやツールのアイコン: Python,Markdown,Bash,PowerShell,HTML,CSS,Git,GitHub,Windows,Linux,Raspberry Pi,Vim,VSCode,WordPress,Discord,Bots,Docker"/>
   </td>
   <td>
     <img src="https://skillicons.dev/icons?i=atom,c,html,css,arduino,pr,ps,ai,androidstudio,unity,py,java,js,linux,mysql,aws,idea,eclipse,vim,kotlin&perline=5" alt="学校で学んだスキルやツールのアイコン: Atom,C,HTML,CSS,Arduino,Adobe Premiere Pro,Adobe Photoshop,Adobe illustrator,Android Studio,Unity,Python,Java,JavaScript,Linux,MySQL,AWS,IntelliJ,Eclipse,Vim,Kotlin"/>
   </td>
   <td>
-    <img src="https://skillicons.dev/icons?i=docker,electron,flutter,nodejs,pytorch,rust,swift,tensorflow,cloudflare,figma,firebase,go&perline=5" alt="興味のあるスキルやツールのアイコン: Docker,Electron,Flutter,Node.js,Pytorch,Rust,Swift,TensorFlow,Cloudflare,Figma,Firebase,Go"/>
+    <img src="https://skillicons.dev/icons?i=electron,flutter,nodejs,pytorch,rust,swift,tensorflow,cloudflare,figma,firebase,go,bitbucket,blender,notion,terraform&perline=5" alt="興味のあるスキルやツールのアイコン: Electron,Flutter,Node.js,Pytorch,Rust,Swift,TensorFlow,Cloudflare,Figma,Firebase,Go,Bitbucket,Blender,Notion,Terraform"/>
   </td>
 </table>
 
