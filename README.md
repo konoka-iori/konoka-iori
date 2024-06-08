@@ -59,4 +59,9 @@
 
 ## Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Discord Nitroを使ってみたのでレビュー！](https://blog.zenryoku.dev/posts/discord-nitro-review-2023/)
+- [iOS 14でDNS暗号化に対応　重要性と暗号化方式](https://blog.zenryoku.dev/posts/ios14-dns-encryption/)
+- [今日が祝日かどうかjpholidayを使って判定する【Python】](https://blog.zenryoku.dev/posts/python-jpholiday/)
+- [AppleのT2チップとは？T2チップ搭載のメリットまとめ](https://blog.zenryoku.dev/posts/t2-chip/)
+- [右クリックからテキストドキュメントが作成できなくなったときの対処法](https://blog.zenryoku.dev/posts/how-to-show-txt/)
 <!-- BLOG-POST-LIST:END -->
