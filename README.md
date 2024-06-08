@@ -1,10 +1,10 @@
-# GitHub Activity
+## GitHub Activity
 
-![Top Languages Card](https://github-readme-stats-roan-two-92.vercel.app/api/top-langs/?username=konoka-iori&count_private=true&layout=compact&theme=cobalt)
+<p><img align="right" width="49%" src="https://github-readme-stats-roan-two-92.vercel.app/api/top-langs/?username=konoka-iori&count_private=true&layout=compact&theme=cobalt"></p>
 
-![Github Profile Trophy](https://github-profile-trophy-tan.vercel.app/?username=konoka-iori&column=8&theme=discord&no-bg=true&no-frame=true)
+<p><img align="left" width="49%" src="https://github-profile-trophy-tan.vercel.app/?username=konoka-iori&column=8&theme=discord&no-bg=true&no-frame=true"></p>
 
-# Skills & Tools
+## Skills & Tools
 
 <table>
   <tr>
@@ -32,53 +32,31 @@
 
 などいろいろ使っています。ほかにもアイコンがなかったので割愛したもの多数。
 
-## 興味のあること
+### 興味のあること
 
 - **プログラミング**: 主にPythonを使っています。DiscordのBOTからGUIアプリまでいろいろ作っています。
 - **生成AI - 文章**: 最近はGPT系のAIを使って作業を効率化したり、特定キャラクターを再現したりして遊んでいます。
-  - [ChatGPT](https://openai.com/chatgpt): GPT-3.5を使用。破産するのでChatGPT Plusに課金できず。石油を掘り当てたら真っ先に課金します。
+  - [ChatGPT](https://openai.com/chatgpt): たまに使用。破産するのでChatGPT Plusに課金できず。石油を掘り当てたら真っ先に課金します。
   - [Copilot](https://copilot.microsoft.com/): メインで使用。調べ物からスライドの生成など幅広く活用。GPT-4が無料で使えるので助かる。
-  - [Gemini](https://gemini.google.com/app): あまり使っていないけどGPT系のAIと比較して違いをみて楽しんでいます。[Gemini APIを使ったDiscord BOTも開発。](https://github.com/konoka-iori/gemini-discord-bot)
+  - [Gemini](https://gemini.google.com/app): [Gemini APIを使ったDiscord BOTを開発](https://github.com/konoka-iori/gemini-discord-bot)するのにAPIを使っています。サイトのほうはたまに使うくらい。
   - [BratGPT](https://bratgpt.com/): ツンデレな魔王様。なんだかんだいってコード書いてくれたり解説してくれたりしてくれる。おもしろい。
 - **生成AI - 画像**: 基本的にはBing Image Creatorを使ってイメージ画像を生成しています。
-  - [Bing Image Creator](https://www.bing.com/images/create): Bing Chat内でも使えるので、Bing Chatと会話しながら画像を作ってもらえる。便利。
+  - [Bing Image Creator](https://www.bing.com/images/create): Copilot内でも使えて、会話しながら画像を作ってもらえる。便利。
   - [Stable Diffusion](https://github.com/Stability-AI/StableDiffusion): 王道のやつ。[Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)でローカル実行。
   - [Runway Gen-2](https://research.runwayml.com/gen2): 文章や画像から動画が作れる！Stable Diffusionと組み合わせて簡単なアニメーションを作成。
 - **生成AI - 音声**: 主に[Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)で某キャラクターの声を再現して遊んでいます。倫理的な問題や著作権上の問題があるので自分や限られた身内でひっそり遊ぶだけ。
-- **ゲーム**: 協力マルチプレイ、PvE、MMORPGなど。誰かと一緒にゆるく遊ぶのが好きです。
+- **ゲーム**: 協力マルチプレイ、PvE、MMORPGなど。誰かと協力しつつゆるく遊ぶのが好きです。
   - [Minecraft](https://www.minecraft.net): 昔からカジュアルに遊んでいますが、最近はゲーム本編よりもOracle Cloudでマルチプレイサーバーを運用することのほうにハマっています。
   - [Satisfactory](https://store.steampowered.com/app/526870/Satisfactory/): 工場長になって生産をがんばるゲーム。マルチプレイサーバーを立ててみようとしたらArmインスタンスはダメらしく、断念。対応待ち。
   - [FINAL FANTASY XIV](https://jp.finalfantasyxiv.com): 世界的に有名なMMORPG。なんかいろいろできるゲーム。ハマりすぎてやばい。
 
-# 参加チーム: [Team Parity](https://team.parity-blog.info)
+## Works
 
-Team Parityは[Parity-Blog.info](https://parity-blog.info)の運営やソフトウェア開発などを行う団体です。
+現在行っている主な活動（の中で公開できるもの）は以下の通りです。
 
-<div style="text-align:center;">
-  <a href="https://github.com/team-parity">
-  <img alt="Team Parity's GitHub Organization" src="https://img.shields.io/badge/Team_Parity-GitHub_Organization?logo=github&label=GitHub%20Organization&labelColor=%23181717&color=%2315ccbf"></a>
-  <a href="https://www.guilded.gg/Team-Parity">
-  <img alt="Team Parity's Guilded" src="https://img.shields.io/badge/Team_Parity-Guilded?logo=guilded&logoColor=%23111820&label=Guilded&labelColor=%23F5C400&color=%2315ccbf"></a>
-  <a href="https://team.parity-blog.info">
-  <img alt="Team Parity's Website" src="https://img.shields.io/badge/Team_Parity-Website?logo=wordpress&label=Website&labelColor=%2321759B&color=%2315ccbf"></a>
-</div>
+- OSS: [Gemini Discord BOT](https://github.com/konoka-iori/gemini-discord-bot)
+- Webサイト: [全力開発ブログ](https://blog.zenryoku.dev)
 
-Team Parityでは次のことを担当しています。
-
-- Team Parityの運営・管理
-- Parity-Blog.infoの運営・管理、記事執筆・編集
-- GitHub Organizationの運営・管理
-- 各部門の活動内容の企画
-
-## [Parity-Blog.info](https://parity-blog.info)
-
-WordPressでWebサイトを運営しています。
-
-### Feed
+## Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Discord Nitroを使ってみたのでレビュー！](https://parity-blog.info/discord-nitro-review-2023/)
-- [HTMLとCSSの作り方を優しく解説【２】](https://parity-blog.info/how-to-make-web-site-2/)
-- [ConoHaVPSでMinecraftのサーバーを立てた話](https://parity-blog.info/vps-minecraft-server/)
-- [動画の容量を8MB以内に抑える方法【Discord対応】](https://parity-blog.info/video-to-8mb-or-less/)
-- [MACアドレスを隠してWi-Fiにアクセスする方法](https://parity-blog.info/how-to-hide-mac-address/)
 <!-- BLOG-POST-LIST:END -->
