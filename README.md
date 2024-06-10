@@ -1,11 +1,12 @@
 ## GitHub Activity
 
-![](./profile-summary-card-output/github_dark/0-profile-details.svg)
-![](./profile-summary-card-output/github_dark/1-repos-per-language.svg)
-![](./profile-summary-card-output/github_dark/2-most-commit-language.svg)
-![](./profile-summary-card-output/github_dark/3-stats.svg)
-
-![](https://github-profile-trophy-tan.vercel.app/?username=konoka-iori&column=8&theme=discord&no-bg=true&no-frame=true)
+<p align="center">
+  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="">
+  <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="">
+  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="">
+  <img src="./profile-summary-card-output/github_dark/3-stats.svg" alt="">
+  <img src="https://github-profile-trophy-tan.vercel.app/?username=konoka-iori&column=8&theme=discord&no-bg=true&no-frame=true" alt="">
+</p>
 
 ## Skills & Tools
 
