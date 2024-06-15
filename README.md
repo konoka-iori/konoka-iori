@@ -4,7 +4,7 @@
 ![Repos Per Language](./profile-summary-card-output/github_dark/1-repos-per-language.svg)
 ![Most Commit Language](./profile-summary-card-output/github_dark/2-most-commit-language.svg)
 ![Stats](./profile-summary-card-output/github_dark/3-stats.svg)
-![Trophy](https://github-profile-trophy-tan.vercel.app/?username=konoka-iori&column=8&theme=discord&no-bg=true&no-frame=true)
+![Trophy](https://github-profile-trophy-tan.vercel.app/?username=konoka-iori&column=8&theme=onedark&margin-w=10&no-bg=true&rank=-C)
 
 ## Skills & Tools
 
