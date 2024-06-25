@@ -61,9 +61,9 @@
 
 ## Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [WordPressからHugoに移行してみた](https://blog.zenryoku.dev/posts/wordpress-to-hugo/)
 - [Discord Nitroを使ってみたのでレビュー！](https://blog.zenryoku.dev/posts/discord-nitro-review-2023/)
 - [NVAPIを使ったVRAMの取得](https://blog.zenryoku.dev/posts/nvapi-vram-getting/)
 - [iOS 14でDNS暗号化に対応　重要性と暗号化方式](https://blog.zenryoku.dev/posts/ios14-dns-encryption/)
 - [今日が祝日かどうかjpholidayを使って判定する【Python】](https://blog.zenryoku.dev/posts/python-jpholiday/)
-- [AppleのT2チップとは？T2チップ搭載のメリットまとめ](https://blog.zenryoku.dev/posts/t2-chip/)
 <!-- BLOG-POST-LIST:END -->
