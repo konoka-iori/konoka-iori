@@ -29,10 +29,13 @@
 
 現在行っている主な活動（の中で公開できるもの）は以下の通りです。
 
-- OSS: [Gemini Discord BOT](https://github.com/konoka-iori/gemini-discord-bot)
-- Webサイト: [全力開発ブログ](https://blog.zenryoku.dev)
+![Gemini Discord BOT Badge](https://img.shields.io/badge/Gemini%20Discord%20BOT-GitHub?style=for-the-badge&logo=github&logoSize=auto&label=GitHub&color=%235865F2&link=https%3A%2F%2Fgithub.com%2Fkonoka-iori%2Fgemini-discord-bot%2F)
+
+![Blog Badge](https://img.shields.io/badge/%E5%85%A8%E5%8A%9B%E9%96%8B%E7%99%BA%E3%83%96%E3%83%AD%E3%82%B0-Blog?style=for-the-badge&logo=hugo&logoColor=%23FF4088&logoSize=auto&label=Blog&color=silver&link=https%3A%2F%2Fblog.zenryoku.dev%2F)
 
 ## Blog Posts
+![Blog RSS Badge](https://img.shields.io/badge/%E5%85%A8%E5%8A%9B%E9%96%8B%E7%99%BA%E3%83%96%E3%83%AD%E3%82%B0-RSS?style=for-the-badge&logo=rss&logoColor=%23FFA500&logoSize=auto&label=Subscribe%20to%20RSS%20feed&color=silver&link=https%3A%2F%2Fblog.zenryoku.dev%2Findex.xml)
+
 <!-- BLOG-POST-LIST:START -->
 - [WordPressからHugoに移行してみた](https://blog.zenryoku.dev/posts/wordpress-to-hugo/)
 - [Discord Nitroを使ってみたのでレビュー！](https://blog.zenryoku.dev/posts/discord-nitro-review-2023/)
