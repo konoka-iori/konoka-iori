@@ -5,11 +5,9 @@
 
 <h2 align="center" dir="auto">GitHub Activity</h2>
 <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details">
-
-<img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos Per Language">
-<img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most Commit Language">
-<img src="./profile-summary-card-output/github_dark/3-stats.svg" alt="Stats">
-
+<img width="49%" src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos Per Language">
+<img width="49%" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most Commit Language">
+<img width="49%" src="./profile-summary-card-output/github_dark/3-stats.svg" alt="Stats">
 <img src="https://github-profile-trophy-tan.vercel.app/?username=konoka-iori&theme=onedark&margin-w=10&no-bg=true&rank=-C" alt="Trophy">
 
 
