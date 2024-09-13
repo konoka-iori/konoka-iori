@@ -1,13 +1,19 @@
-## GitHub Activity
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=600&size=32&duration=1500&pause=100&color=66CC66&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=65&lines=Welcome+to+My+GitHub+Profile!" alt="Welcome to My GitHub Profile" />
+</div>
 
-![Profile Details](./profile-summary-card-output/github_dark/0-profile-details.svg)
-![Repos Per Language](./profile-summary-card-output/github_dark/1-repos-per-language.svg)
-![Most Commit Language](./profile-summary-card-output/github_dark/2-most-commit-language.svg)
-![Stats](./profile-summary-card-output/github_dark/3-stats.svg)
-![Trophy](https://github-profile-trophy-tan.vercel.app/?username=konoka-iori&theme=onedark&margin-w=10&no-bg=true&rank=-C)
 
-## Skills & Tools
+<h2 align="center" dir="auto">GitHub Activity</h2>
+<img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details">
 
+<img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos Per Language">
+<img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most Commit Language">
+<img src="./profile-summary-card-output/github_dark/3-stats.svg" alt="Stats">
+
+<img src="https://github-profile-trophy-tan.vercel.app/?username=konoka-iori&theme=onedark&margin-w=10&no-bg=true&rank=-C" alt="Trophy">
+
+
+<h2 align="center" dir="auto">Skills & Tools</h2>
 <table>
   <tr>
     <th>個人でもわりと使ってる</th>
@@ -25,9 +31,8 @@
   </td>
 </table>
 
-## Works
 
-現在行っている主な活動（の中で公開できるもの）は以下の通りです。
+## Works
 
 ![Gemini Discord BOT Badge](https://img.shields.io/badge/Gemini%20Discord%20BOT-GitHub?style=for-the-badge&logo=github&logoSize=auto&label=GitHub&color=%235865F2&link=https%3A%2F%2Fgithub.com%2Fkonoka-iori%2Fgemini-discord-bot%2F)
 
