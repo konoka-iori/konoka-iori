@@ -9,7 +9,7 @@
 <img width="49%" src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos Per Language">
 <img width="49%" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most Commit Language">
 <img width="49%" src="./profile-summary-card-output/github_dark/3-stats.svg" alt="Stats">
-<img width="100%" src="https://github-profile-trophy-tan.vercel.app/?username=konoka-iori&theme=onedark&margin-w=10&no-bg=true&rank=-C" alt="Trophy">
+<img width="49%" src="https://github-profile-trophy-tan.vercel.app/?username=konoka-iori&theme=onedark&no-bg=true&no-frame=true&rank=-C&column=4&row=2&margin-h=10" alt="Trophy">
 </div>
 
 
