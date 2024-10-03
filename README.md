@@ -14,7 +14,7 @@
 
 
 <h2 align="center" dir="auto">Skills & Tools</h2>
-<table>
+<table align="center">
   <tr>
     <th></th>
     <th>よく使う</th>
