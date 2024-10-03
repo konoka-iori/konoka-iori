@@ -3,7 +3,7 @@
 </div>
 
 
-<h2 align="center" dir="auto">GitHub Activity</h2>
+<h2 align="center">GitHub Activity</h2>
 <div align="center">
 <img width="100%" src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details">
 <img width="49%" src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos Per Language">
@@ -13,7 +13,7 @@
 </div>
 
 
-<h2 align="center" dir="auto">Skills & Tools</h2>
+<h2 align="center">Skills & Tools</h2>
 <table align="center">
   <tr>
     <th></th>
@@ -108,14 +108,18 @@
   </tr>
 </table>
 
-## Works
+<h2 align="center">Works</h2>
+<div align="center">
+  <a href="https://github.com/konoka-iori/gemini-discord-bot/">
+    <img src="https://img.shields.io/badge/Gemini%20Discord%20BOT-GitHub?style=for-the-badge&logo=github&logoSize=auto&label=GitHub&color=%235865F2" alt="Gemini Discord BOT Badge">
+  </a>
+<a href="https://blog.zenryoku.dev/">
+    <img src="https://img.shields.io/badge/%E5%85%A8%E5%8A%9B%E9%96%8B%E7%99%BA%E3%83%96%E3%83%AD%E3%82%B0-Blog?style=for-the-badge&logo=hugo&logoColor=%23FF4088&logoSize=auto&label=Blog&color=silver" alt="Blog Badge">
+  </a>
+</div>
 
-![Gemini Discord BOT Badge](https://img.shields.io/badge/Gemini%20Discord%20BOT-GitHub?style=for-the-badge&logo=github&logoSize=auto&label=GitHub&color=%235865F2&link=https%3A%2F%2Fgithub.com%2Fkonoka-iori%2Fgemini-discord-bot%2F)
-
-![Blog Badge](https://img.shields.io/badge/%E5%85%A8%E5%8A%9B%E9%96%8B%E7%99%BA%E3%83%96%E3%83%AD%E3%82%B0-Blog?style=for-the-badge&logo=hugo&logoColor=%23FF4088&logoSize=auto&label=Blog&color=silver&link=https%3A%2F%2Fblog.zenryoku.dev%2F)
-
-## Blog Posts
-![Blog RSS Badge](https://img.shields.io/badge/%E5%85%A8%E5%8A%9B%E9%96%8B%E7%99%BA%E3%83%96%E3%83%AD%E3%82%B0-RSS?style=for-the-badge&logo=rss&logoColor=%23FFA500&logoSize=auto&label=Subscribe%20to%20RSS%20feed&color=silver&link=https%3A%2F%2Fblog.zenryoku.dev%2Findex.xml)
+<h3>Blog Posts</h2>
+<img src="https://img.shields.io/badge/%E5%85%A8%E5%8A%9B%E9%96%8B%E7%99%BA%E3%83%96%E3%83%AD%E3%82%B0-RSS?style=for-the-badge&logo=rss&logoColor=%23FFA500&logoSize=auto&label=Subscribe%20to%20RSS%20feed&color=silver&link=https%3A%2F%2Fblog.zenryoku.dev%2Findex.xml" alt="Blog RSS Badge">
 
 <!-- BLOG-POST-LIST:START -->
 - [WordPressからHugoに移行してみた](https://blog.zenryoku.dev/posts/wordpress-to-hugo/)
