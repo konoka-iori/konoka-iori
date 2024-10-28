@@ -122,9 +122,9 @@
 <img src="https://img.shields.io/badge/%E5%85%A8%E5%8A%9B%E9%96%8B%E7%99%BA%E3%83%96%E3%83%AD%E3%82%B0-RSS?style=for-the-badge&logo=rss&logoColor=%23FFA500&logoSize=auto&label=Subscribe%20to%20RSS%20feed&color=silver&link=https%3A%2F%2Fblog.zenryoku.dev%2Findex.xml" alt="Blog RSS Badge">
 
 <!-- BLOG-POST-LIST:START -->
+- [Windows 11セットアップ、Wi-Fiを繋げてしまった...](https://blog.zenryoku.dev/posts/win11-setup-wifi-delete/)
 - [開発環境をDev Containerを使ってコンテナー化してみた](https://blog.zenryoku.dev/posts/using-dev-container/)
 - [WordPressからHugoに移行してみた](https://blog.zenryoku.dev/posts/wordpress-to-hugo/)
 - [Discord Nitroを使ってみたのでレビュー！](https://blog.zenryoku.dev/posts/discord-nitro-review-2023/)
-- [ConoHaVPSでMinecraftのサーバーを立てた話](https://blog.zenryoku.dev/posts/vps-minecraft-server/)
 - [NVAPIを使ったVRAMの取得](https://blog.zenryoku.dev/posts/nvapi-vram-getting/)
 <!-- BLOG-POST-LIST:END -->
