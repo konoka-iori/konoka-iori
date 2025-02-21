@@ -122,9 +122,9 @@
 <img src="https://img.shields.io/badge/%E5%85%A8%E5%8A%9B%E9%96%8B%E7%99%BA%E3%83%96%E3%83%AD%E3%82%B0-RSS?style=for-the-badge&logo=rss&logoColor=%23FFA500&logoSize=auto&label=Subscribe%20to%20RSS%20feed&color=silver&link=https%3A%2F%2Fblog.zenryoku.dev%2Findex.xml" alt="Blog RSS Badge">
 
 <!-- BLOG-POST-LIST:START -->
+- [Satisfactoryサーバーの運用の手引き](https://blog.zenryoku.dev/posts/satisfactory-server-setup/)
 - [全力開発ブログの作り方：開発（執筆）環境の紹介](https://blog.zenryoku.dev/posts/zenryoku-blog-writing-workflow/)
 - [WSL内でDev Container使おうとしたら沼った話](https://blog.zenryoku.dev/posts/troubleshooting-wsl-dev-container/)
 - [Docker Desktop、やめました](https://blog.zenryoku.dev/posts/graduating-from-docker-desktop/)
 - [全力開発ブログの作り方：リポジトリの運用](https://blog.zenryoku.dev/posts/zenryoku-blog-repository/)
-- [全力開発ブログの作り方：textlintとMarkdownlintで品質を維持する](https://blog.zenryoku.dev/posts/zenryoku-blog-linting/)
 <!-- BLOG-POST-LIST:END -->
